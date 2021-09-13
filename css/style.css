@@ -10,7 +10,7 @@
 
 
 .container {
-    background-image: url("/images/pattern-background-mobile.svg");
+    background-image: url("images/pattern-background-mobile.svg");
     background-repeat: no-repeat;
     background-size: contain;
     width: 375px;
