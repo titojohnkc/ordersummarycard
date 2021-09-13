@@ -1,0 +1,143 @@
+/* Global Style Rules */
+.container-fluid {
+    background-image: url("/images/pattern-background-desktop.svg"), url("/images/pattern-background-desktop.svg");
+    background-repeat: no-repeat, no-repeat;
+    background-color: hsl(225, 100%, 94%);
+    background-size: 50%, 50%;
+    width: 1440px;
+    height: 50vh;
+}
+
+
+.container {
+    background-image: url("/images/pattern-background-mobile.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 375px;
+    height: 100vh;
+}
+
+body {
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+
+
+h1 {
+    font-size: 1.56rem;
+    font-weight: 700;
+    margin: 20px 0 20px 0;
+}
+
+h2 {
+    margin: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.plan p {
+    font-size: 14px;
+    text-align: left;
+}
+
+.col {
+    text-align: center;
+}
+
+.attribution {
+    width: 502px;
+    margin-top: 10px;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+
+.card {
+    margin-top: 40%;
+    width: 30rem;
+    box-shadow: 0px 0px 20px #bfbfbf;
+    border: none;
+    border-radius: 1.3rem;
+}
+
+.card p {
+    font-weight: lighter;
+    color: grey;
+    margin: 10px;
+}
+
+.card-img-top {
+    border-top-left-radius: 1.3rem;
+    border-top-right-radius: 1.3rem;
+}
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.row {
+    flex: auto;
+}
+
+.choice {
+    background-color: hsl(225, 100%, 98%);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 100px;
+
+}
+
+
+
+
+/* Button Styles */
+
+
+
+.btn {
+    padding: 5px;
+}
+
+#proceed {
+    background-color: hsl(245, 75%, 52%);
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+    box-shadow: 0px 10px 40px grey;
+
+}
+
+#cancel {
+
+    border-radius: 10px;
+    color: grey;
+    padding: 10px;
+    margin: 20px 0 30px 0;
+}
+
+#option-selected {
+    border-radius: 10px;
+    margin: 0 0 30px 0;
+}
+
+#proceed:hover {
+    background-color: #867AE9;
+    text-decoration: none;
+}
+
+.active-1:hover {
+    color: #867AE9;
+}
+
+.active-2:hover {
+    background-color: hsl(228, 45%, 44%);
+}
+
+#cancel:hover {
+    color: black;
+}
