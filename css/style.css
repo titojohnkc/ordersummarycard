@@ -1,7 +1,7 @@
 /* Global Style Rules */
 .container-fluid {
-    background-image: url("images/pattern-background-desktop.svg"), url("images/pattern-background-desktop.svg");
-    background-repeat: no-repeat, no-repeat;
+    background-image: url("images/pattern-background-desktop.svg");
+    background-repeat: no-repeat;
     background-color: hsl(225, 100%, 94%);
     background-size: 50%, 50%;
     width: 1440px;
