@@ -49,13 +49,12 @@ Desktop - main-desktop-screenshot
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
+I learned that I don't fully understand the mobile first work flow.
 
 ### Continued development
 
 Points to note going forward:
+- Work on Mobile First - Workflow
 - Learn to keep my CSS code cleaner.
 - Learn to keep track of classes and find a better workflow to create classes as needed.
 
