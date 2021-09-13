@@ -31,7 +31,7 @@ h1 {
 
 h2 {
     margin: 10px;
-    font-size: 18px;
+    font-size: 12px;
     font-weight: bold;
     text-align: left;
 }
@@ -56,12 +56,14 @@ h2 {
 
 
 .card {
+    display: block;
     margin-top: 40%;
-    width: 30rem;
+    width: 24rem;
     box-shadow: 0px 0px 20px #bfbfbf;
     border: none;
     border-radius: 1.3rem;
 }
+
 
 .card p {
     font-weight: lighter;
@@ -92,7 +94,14 @@ h2 {
 
 }
 
+.choice a {
+    font-size: 14px;
+    text-overflow: initial;
+}
 
+.choice p {
+    font-size: 12px;
+}
 
 
 /* Button Styles */
@@ -127,11 +136,11 @@ h2 {
 
 #proceed:hover {
     background-color: #867AE9;
-    text-decoration: none;
 }
 
 .active-1:hover {
     color: #867AE9;
+    text-decoration: none;
 }
 
 .active-2:hover {
