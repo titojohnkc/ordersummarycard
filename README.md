@@ -9,7 +9,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   
   
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -33,10 +32,7 @@ Users should be able to:
 
 Desktop - main-desktop-screenshot
 
-### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
@@ -46,7 +42,6 @@ Desktop - main-desktop-screenshot
 - CSS custom properties
 - Bootstrap 5.1
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
